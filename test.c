@@ -2,7 +2,7 @@
 
 int main() {
 printf("hello!");
- printf("jaz sem v sluzbi");
- 
+ printf("jaz, metka sem v sluzbi");
+
 }
 
