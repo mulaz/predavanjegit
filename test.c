@@ -2,8 +2,10 @@
 
 int main() {
 printf("hello!");
- printf("janko je v sluzbi");
  printf("nekaj delam na testni veji");
+ printf("jaz janko, in metka sva v sluzbi");
+
  neknovfeature();
+
 }
 
